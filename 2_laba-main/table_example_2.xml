@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<table title="table_example_2">
+	<columns>
+		<column title="Faculty" type_of_data="str"/>
+		<column title="Department" type_of_data="str"/>
+		<column title="FCs" type_of_data="str"/>
+		<column title="Academic_title" type_of_data="str"/>
+		<column title="Academic_degree" type_of_data="str"/>
+		<column title="Work_experience" type_of_data="int"/>
+	</columns>
+	<records>
+		<record>
+			<element Faculty="FCD"/>
+			<element Department="DH"/>
+			<element FCs="Knromenkova V.D."/>
+			<element Academic_title="Doctor of Sciences"/>
+			<element Academic_degree="Senior reseacher"/>
+			<element Work_experience="20"/>
+		</record>
+	</records>
+</table>
