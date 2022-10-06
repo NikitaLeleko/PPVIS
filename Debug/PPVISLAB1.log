@@ -1,0 +1,14 @@
+﻿  Matrix.cpp
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(61,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(465,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(466,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(474,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(475,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(492,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(493,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(565,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Matrix.cpp(567,27): warning C4018: '<': signed/unsigned mismatch
+  PPVISLAB1.cpp
+  Generating Code...
+  PPVISLAB1.vcxproj -> C:\Users\Niksan\Desktop\3 semestr\PPVIS\PPVISLAB1\Debug\PPVISLAB1.exe
