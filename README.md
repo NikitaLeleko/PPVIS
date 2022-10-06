@@ -1,3 +1,3 @@
 # PPVIS labs
-PPvIS 1 lab(ATM)
-PPvIS 2 lab(12)
+1) PPvIS 1 lab(ATM)
+2) PPvIS 2 lab(12)
